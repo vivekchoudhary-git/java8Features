@@ -2,6 +2,8 @@ package vivekJava8.stream;
 
 //refer Youtube Engineering Digest playlist Java8 19/21
 //Basic Concepts Part-2
+// How to Use Streams ?
+// Source, intermediate operations & terminal operation
 
 import java.util.Arrays;
 import java.util.List;
