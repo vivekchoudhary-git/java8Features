@@ -1,5 +1,8 @@
 package vivekJava8.stream.TerminalOperations;
 
+//Ternary Operations of Streams are collect,forEach,reduce,count,anyMatch, allMatch, noneMatch,findFirst, findAny,toArray,min,max,forEachOrdered
+// Stream does not execute without Termnal Operations
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -7,8 +10,6 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
-//Ternary Operations of Streams are collect,forEach,reduce,count,anyMatch, allMatch, noneMatch,findFirst, findAny,toArray,min,max,forEachOrdered
 
 public class TerminalTest {
 
